@@ -1,0 +1,23 @@
+PROJECT 02 - DATA VISUALIZATION TAKEAWAYS
+=======================================================
+
+Histogram
+----------------------------------------
+The median restaurant bill is $17.80, and 75% of bills are at or below $24.13.
+
+Box Plot
+----------------------------------------
+Sun has the highest median tip, while Thur has the lowest median tip.
+
+Scatter Plot
+----------------------------------------
+Total bill and tip have a positive correlation of 0.68.
+
+Correlation Heatmap
+----------------------------------------
+The strongest numerical relationship is between total_bill and tip, with a correlation of 0.68.
+
+Bar Chart
+----------------------------------------
+Sun has the highest average tip at $3.26.
+
